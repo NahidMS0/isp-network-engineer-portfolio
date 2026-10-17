@@ -1,4 +1,5 @@
 # Nahid Hossen Munna
+
 ### ISP Network Engineer | MikroTik | BGP | Network Monitoring | Linux
 
 Experienced ISP Network Engineer with **11 years of hands-on experience** in ISP operations, routing, network troubleshooting, traffic analysis, and monitoring.
@@ -17,14 +18,17 @@ I work with ISP infrastructure, including MikroTik routers, BGP routing, VLANs, 
 ## Featured Projects
 
 ### 1. ISP Network Troubleshooting
+
 Real-world case studies covering switch port flapping, OLT-to-router link instability, and RouterOS PPPoE connectivity issues.
 
 [View Troubleshooting Case Studies](./troubleshooting/production-network-issues.md)
 
 ### 2. Network Monitoring and Alerting
+
 Experience with LibreNMS, SNMP monitoring, traffic graphs, and Telegram notifications.
 
 ### 3. ISP Routing and Traffic Management
+
 Hands-on experience with MikroTik routing, BGP, VLAN-based traffic separation, NAT, and upstream traffic analysis.
 
 ## Professional Experience
@@ -36,7 +40,12 @@ Hands-on experience with MikroTik routing, BGP, VLAN-based traffic separation, N
 
 ## Contact
 
+- **Email:** [nahidhossainmunna4@gmail.com](mailto:nahidhossainmunna4@gmail.com)
+- **Phone:** [+880 1865-765889](tel:+8801865765889)
+- **WhatsApp:** [Chat with me](https://wa.me/8801865765889)
+- **LinkedIn:** [Nahid Hossen Munna](https://www.linkedin.com/in/nahid-hossain-munna-808190253/)
 - **GitHub:** [NahidMS0](https://github.com/NahidMS0)
-- **Portfolio:** [ISP Network Engineer Portfolio](https://github.com/NahidMS0/isp-network-engineer-portfolio)
 
-*Note: Project descriptions are provided for professional portfolio purposes. Sensitive network details and credentials are intentionally excluded.*
+*Open to remote ISP Network Engineering, Routing, Network Monitoring, and Network Operations opportunities.*
+
+*Note: Sensitive network details and credentials are intentionally excluded from this portfolio.*
