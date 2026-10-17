@@ -88,3 +88,9 @@ Linux Server Administration | Docker | LibreNMS | SNMP | Network Monitoring | Ba
 ## Disclaimer
 
 This repository documents technical skills and representative infrastructure workflows. Sensitive production configurations, credentials, customer information, and private network details are intentionally excluded.
+
+## Ubuntu Server Monitoring with LibreNMS
+
+Monitor Ubuntu server availability, uptime, CPU utilization, memory usage, and storage metrics through LibreNMS.
+
+![Ubuntu Server Monitoring](./Linux-Ubuntu.png)
