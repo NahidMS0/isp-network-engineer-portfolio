@@ -1,51 +1,61 @@
 # Nahid Hossen Munna
 
-### ISP Network Engineer | MikroTik | BGP | Network Monitoring | Linux
+**ISP Network Engineer | MikroTik | BGP | Network Monitoring | Linux**
 
-Experienced ISP Network Engineer with **11 years of hands-on experience** in ISP operations, routing, network troubleshooting, traffic analysis, and monitoring.
-
-I work with ISP infrastructure, including MikroTik routers, BGP routing, VLANs, Huawei and BDCOM switches, OLT connectivity, Linux servers, and LibreNMS monitoring.
+ISP networking and infrastructure professional with **11 years of experience** in routing, network troubleshooting, ISP operations, Linux servers, and monitoring systems.
 
 ## Technical Skills
 
-- **Routing:** BGP, routing policy, route troubleshooting
-- **Networking:** TCP/IP, VLAN, 10G uplinks, NAT, PPPoE
-- **Network Devices:** MikroTik RouterOS, Huawei switches, BDCOM switches, OLTs
-- **Monitoring:** LibreNMS, SNMP, traffic graphs, Telegram alerts
-- **Linux & Servers:** Ubuntu Server, Docker, service monitoring
-- **Troubleshooting:** Packet loss, link flapping, optical signal issues, connectivity problems
+- **Routing:** BGP, TCP/IP, Routing Policy, NAT, PPPoE
+- **Networking:** VLAN, 10G Uplinks, Upstream Connectivity, Traffic Engineering
+- **Equipment:** MikroTik, Huawei, BDCOM, OLT
+- **Monitoring:** LibreNMS, SNMP, Traffic Graphs, Telegram Alerts
+- **Servers:** Ubuntu Linux, Docker, Docker Compose
+- **Automation:** Bash Scripting, n8n Workflow Integration
 
 ## Featured Projects
 
 ### 1. ISP Network Troubleshooting
-
-Real-world case studies covering switch port flapping, OLT-to-router link instability, and RouterOS PPPoE connectivity issues.
+Documented network troubleshooting cases, observed symptoms, and practical solutions.
 
 [View Troubleshooting Case Studies](./troubleshooting/production-network-issues.md)
 
-### 2. Network Monitoring and Alerting
+### 2. LibreNMS Network Monitoring
+Network device monitoring, interface traffic visibility, SNMP, sensor monitoring, and alerting workflows.
 
-Experience with LibreNMS, SNMP monitoring, traffic graphs, and Telegram notifications.
+[View LibreNMS Monitoring Project](./librenms-monitoring/README.md)
 
-### 3. ISP Routing and Traffic Management
+### 3. MikroTik BGP Routing
+BGP routing, upstream connectivity, routing policies, VLANs, NAT, and network troubleshooting.
 
-Hands-on experience with MikroTik routing, BGP, VLAN-based traffic separation, NAT, and upstream traffic analysis.
+[View MikroTik BGP Project](./mikrotik-bgp/README.md)
+
+### 4. Huawei, BDCOM and OLT Infrastructure
+Network switching, uplink connectivity, routing infrastructure, and OLT/PON network operations.
+
+[View Huawei, BDCOM and OLT Project](./huawei-bdcom-olt/README.md)
+
+### 5. Linux Server & Monitoring Infrastructure
+Linux administration, Docker services, monitoring infrastructure, automation, and operational troubleshooting.
+
+[View Linux Server Monitoring Project](./linux-server-monitoring/README.md)
 
 ## Professional Experience
 
-- **Experience:** 11 years in ISP networking
-- **Industry:** Internet Service Provider (ISP)
-- **Focus:** Network operations, routing, monitoring, and troubleshooting
-- **Location:** Chittagong, Bangladesh
+- 11 years of ISP networking and operational experience.
+- Practical experience with routing, switching, and network troubleshooting.
+- Experience maintaining network monitoring and alerting systems.
+- Linux server administration and containerized application operations.
+- Focus on network reliability, visibility, and minimizing service disruption.
 
 ## Contact
 
 - **Email:** [nahidhossainmunna4@gmail.com](mailto:nahidhossainmunna4@gmail.com)
-- **Phone:** [+880 1865-765889](tel:+8801865765889)
-- **WhatsApp:** [Chat with me](https://wa.me/8801865765889)
+- **Phone:** +8801865765889
+- **WhatsApp:** [Contact me](https://wa.me/8801865765889)
 - **LinkedIn:** [Nahid Hossen Munna](https://www.linkedin.com/in/nahid-hossain-munna-808190253/)
 - **GitHub:** [NahidMS0](https://github.com/NahidMS0)
 
-*Open to remote ISP Network Engineering, Routing, Network Monitoring, and Network Operations opportunities.*
+## Portfolio Note
 
-*Note: Sensitive network details and credentials are intentionally excluded from this portfolio.*
+This portfolio presents my technical skills and representative projects. Sensitive production IP addresses, credentials, customer information, and private network configurations are intentionally excluded.
