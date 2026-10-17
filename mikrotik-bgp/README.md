@@ -91,3 +91,28 @@ Monitor BGP peer/session status through LibreNMS to support ISP routing visibili
 
 ![BGP Peer Status](./BGP.png)
 
+## MikroTik RouterOS Monitoring and Routing
+
+### System Resources
+CPU utilization, memory usage, uptime, and RouterOS version.
+
+![MikroTik Resources](./Resources.png)
+
+### Interface Traffic
+Monitor interface status and real-time RX/TX traffic.
+
+![Interface Traffic](./Interface%20Traffic.png)
+
+### IP Routing Table
+Inspect active routes and routing status.
+
+![IP Routes](./IP%20Routes.png)
+
+### BGP Peer Monitoring
+Review BGP session status for ISP routing operations.
+
+![BGP Sessions](./BGP.png)
+
+### Additional WinBox Screenshot
+![MikroTik Additional Screenshot](./Screenshot%202026-10-17%20151932.png)
+
