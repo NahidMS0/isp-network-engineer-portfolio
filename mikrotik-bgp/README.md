@@ -79,3 +79,15 @@ Use sanitized examples and documentation rather than unredacted production confi
 This experience supports ISP routing operations, BGP troubleshooting, upstream connectivity analysis, and traffic-path verification.
 
 *This project documents practical experience. Specific routing designs and results depend on the network architecture and operational requirements.*
+## MikroTik Monitoring with LibreNMS
+
+Monitor MikroTik router availability, uptime, CPU, memory, interface traffic, and device health through LibreNMS.
+
+![MikroTik Monitoring](./Mikrotik.png)
+
+## BGP Peer Status Monitoring
+
+Monitor BGP peer/session status through LibreNMS to support ISP routing visibility and troubleshooting.
+
+![BGP Peer Status](./BGP.png)
+
