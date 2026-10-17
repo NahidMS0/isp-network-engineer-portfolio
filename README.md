@@ -16,29 +16,34 @@ ISP networking and infrastructure professional with **11 years of experience** i
 ## Featured Projects
 
 ### 1. ISP Network Troubleshooting
+
 Documented network troubleshooting cases, observed symptoms, and practical solutions.
 
-[View Troubleshooting Case Studies](./troubleshooting/production-network-issues.md)
+[View Troubleshooting Case Studies](https://github.com/NahidMS0/isp-network-engineer-portfolio/blob/main/troubleshooting/production-network-issues.md)
 
 ### 2. LibreNMS Network Monitoring
+
 Network device monitoring, interface traffic visibility, SNMP, sensor monitoring, and alerting workflows.
 
-[View LibreNMS Monitoring Project](./librenms-monitoring/README.md)
+[View LibreNMS Monitoring Project](https://github.com/NahidMS0/isp-network-engineer-portfolio/blob/main/librenms-monitoring/README.md)
 
 ### 3. MikroTik BGP Routing
+
 BGP routing, upstream connectivity, routing policies, VLANs, NAT, and network troubleshooting.
 
-[View MikroTik BGP Project](./mikrotik-bgp/README.md)
+[View MikroTik BGP Project](https://github.com/NahidMS0/isp-network-engineer-portfolio/blob/main/mikrotik-bgp/README.md)
 
 ### 4. Huawei, BDCOM and OLT Infrastructure
+
 Network switching, uplink connectivity, routing infrastructure, and OLT/PON network operations.
 
-[View Huawei, BDCOM and OLT Project](./huawei-bdcom-olt/README.md)
+[View Huawei, BDCOM and OLT Project](https://github.com/NahidMS0/isp-network-engineer-portfolio/blob/main/huawei-bdcom-olt/README.md)
 
 ### 5. Linux Server & Monitoring Infrastructure
+
 Linux administration, Docker services, monitoring infrastructure, automation, and operational troubleshooting.
 
-[View Linux Server Monitoring Project](./linux-server-monitoring/README.md)
+[View Linux Server Monitoring Project](https://github.com/NahidMS0/isp-network-engineer-portfolio/blob/main/linux-server-monitoring/README.md)
 
 ## Professional Experience
 
