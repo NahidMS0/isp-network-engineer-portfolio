@@ -82,3 +82,9 @@ This monitoring workflow supports centralized visibility, faster fault investiga
 The dashboard provides visibility into network monitoring, device status, and traffic information.
 
 ![LibreNMS Monitoring Dashboard](./Librenms.png)
+
+## LibreNMS Dashboard Overview
+
+This dashboard provides centralized visibility into network availability, health sensors, core router CPU, syslog, event logs, and alerts.
+
+![LibreNMS Dashboard Overview](./librenms-overview.png.png)
