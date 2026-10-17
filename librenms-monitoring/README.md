@@ -77,3 +77,8 @@ All screenshots and configuration examples published in this portfolio must excl
 This monitoring workflow supports centralized visibility, faster fault investigation, and more consistent monitoring of ISP network infrastructure.
 
 *This project description summarizes my practical monitoring and operations experience. Specific results depend on the monitored environment and configuration.*
+## Monitoring Dashboard Screenshot
+
+The dashboard provides visibility into network monitoring, device status, and traffic information.
+
+![LibreNMS Monitoring Dashboard](./Librenms.png)
